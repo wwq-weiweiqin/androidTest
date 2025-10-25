@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <color name="ScanEwmBack">#000000</color>
+        <color name="ScanEwmWhite">#CA0B0B</color>
+        <color name="LightRed">#F64B4B</color>
+        <color name="ScanEwmRed">#FF0000</color>
+        <color name="SomeGreen">#0D631B</color>
+        <color name="MyGreen">#03430d</color>
+        <color name="MyBlue">#0c3ff7</color>
+        <color name="VeryLightYellow">#FDF8D7</color>
+        <color name="MyYellow">#f7e70c</color>
+        <color name="MyOrange">#FAC20F</color>
+        <color name="MyGray">#afafa9</color>
+        <color name="DelpGray">#464645</color>
+        <color name="LightGrey">#e6e6e2</color>
+        <color name="VeryLightGrey">#A6F5F5F2</color>
+        <color name="DeepBlue">#072387</color>
+        <color name="ZhiShe">#210305</color>
+        <color name="ScanEwmTitleColor">#FFFFFF</color>
+        <color name="SkyBlue">#92EEFA</color>
+        <color name="SomeRed">#92EEFA</color>
+        <color name="DelpSkyBlue">#2196F3</color>
+        <color name="PinHong">#F107ED</color>
+</resources>
